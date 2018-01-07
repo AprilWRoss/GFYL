@@ -1,0 +1,53 @@
+REGEDIT4
+[HKEY_CURRENT_USER\Software\Image-Line\Registrations\DirectWave]
+"ILRegKey"="3a7725f49f4a2190b621d9989116711b2116b568f54dfdd699872083d9861f8f"
+[HKEY_CURRENT_USER\Software\Image-Line\Registrations\Drumaxx]
+"ILRegKey"="b84797034713d08b5bcd51db005d9a3da8b1cbe5e9a8ca358c41de5c8daf97ed"
+[HKEY_CURRENT_USER\Software\Image-Line\Registrations\DrumSynth Live]
+"ILRegKey"="2b0823d98f11fa279f8283b5f8b2a1f2fadf33b15790c330a1c1d406cd22612f"
+[HKEY_CURRENT_USER\Software\Image-Line\Registrations\Fruity DX10]
+"ILRegKey"="63a44093b5d74b4f2bfb31e9bdc30eb7ba98aaf3725fc52c51df4146670fcc2b"
+[HKEY_CURRENT_USER\Software\Image-Line\Registrations\Edison]
+"ILRegKey"="bfa56df5d3829e503240c92dfb01263feff784dfb2dd08ec823fe3c833e07d64"
+[HKEY_CURRENT_USER\Software\Image-Line\Registrations\GMS]
+"ILRegKey"="96cd6fcd995bd48d311c9401686fabc1d8de7f4a9951d0533c8fecf4fb23dec3"
+[HKEY_CURRENT_USER\Software\Image-Line\Registrations\GrooveMachine]
+"ILRegKey"="5df93e9673fe8dab37a46ca1f3820b86048600932826166ed72af12e63070281"
+[HKEY_CURRENT_USER\Software\Image-Line\Registrations\Gross Beat]
+"ILRegKey"="a17e6c08877b51ab993f6ed8e3465ba24b9f42c31ef9327609303e9e7dfdfe1c"
+[HKEY_CURRENT_USER\Software\Image-Line\Registrations\Hardcore]
+"ILRegKey"="0e86abd4c72c8bed66171fee8686e9dddd7f68051ebbedbe5d4a8fdbe4494b4d"
+[HKEY_CURRENT_USER\Software\Image-Line\Registrations\Harmless]
+"ILRegKey"="4ec9e7b8c4fe010f2a746ef9ef8446991b27d20bbdb2cc4fc30c9515252c4b87"
+[HKEY_CURRENT_USER\Software\Image-Line\Registrations\Harmor]
+"ILRegKey"="c9df85eb21a0556b6959d19f3f0d738fd10c41064a5e35e5d63858168fe784b8"
+[HKEY_CURRENT_USER\Software\Image-Line\Registrations\Juice Pack]
+"ILRegKey"="fea2231f8e74a3e811b718f245a0b8e57ed0e60661135706d05a40f0f21d6e83"
+[HKEY_CURRENT_USER\Software\Image-Line\Registrations\Maximus]
+"ILRegKey"="ec04197a3c0d7cf267f3aef4a1f39de01f01953c6723cc102c3f9510b6857fe3"
+[HKEY_CURRENT_USER\Software\Image-Line\Registrations\Morphine]
+"ILRegKey"="76d7da6d732e60d201ba305ad0806f42505c9e14871800264cd25109a84c0957"
+[HKEY_CURRENT_USER\Software\Image-Line\Registrations\Ogun]
+"ILRegKey"="e3e3dd5c73d7fc6c2ec04027eb1e6341895814354a57f88bfcdf772e3b0dbd85"
+[HKEY_CURRENT_USER\Software\Image-Line\Registrations\PoiZone]
+"ILRegKey"="33deb63af4909a1d725a9e8f34a41a2c87e489e9cfe6505f7df71bbfa53fb009"
+[HKEY_CURRENT_USER\Software\Image-Line\Registrations\Pitcher]
+"ILRegKey"="efd410d2378135ed9f0f9a47db2e2e17887610ddaa4fe5797b8673c83a06d9cf"
+[HKEY_CURRENT_USER\Software\Image-Line\Registrations\Sakura]
+"ILRegKey"="6c83b88f16af5054d20b90e20b0383161fac171611089d1c4b2689d5b2f09be9"
+[HKEY_CURRENT_USER\Software\Image-Line\Registrations\Sawer]
+"ILRegKey"="d4aa6e413a6206d5abd4dcc86aed9ccea71c34621a186c8828b891584726d25a"
+[HKEY_CURRENT_USER\Software\Image-Line\Registrations\SimSynth]
+"ILRegKey"="310aaac43e3a7dcf27c909dc068297d501a3afd76e750387bf6391e6516b9ad5"
+[HKEY_CURRENT_USER\Software\Image-Line\Registrations\SliceX]
+"ILRegKey"="f9889d190d53d4c9cd10b999cbcc53beb7ff181a8d1deda4c7423ed5d71a9ae2"
+[HKEY_CURRENT_USER\Software\Image-Line\Registrations\Sytrus]
+"ILRegKey"="ca00b91a4f7944b9163c3000c03fec72b94ce127ffeb8f6bdef45d020296eaa3"
+[HKEY_CURRENT_USER\Software\Image-Line\Registrations\Toxic Biohazard]
+"ILRegKey"="60a8c8361a7ee6ac04b0b187b750fdbb6704e28162cf38b10d06f0c9f5cbedba"
+[HKEY_CURRENT_USER\Software\Image-Line\Registrations\Vocodex]
+"ILRegKey"="7036947c3ab44e1df149baf09f335d3ecc683b92fa168f05f1389a977e19c2b6"
+[HKEY_CURRENT_USER\Software\Image-Line\Registrations\Deckadance]
+"ILRegKey"="8c7f8ea5e39b02976e58e787fb585b53173eacd667d2d22f1da929333a104c6b"
+[HKEY_CURRENT_USER\Software\Image-Line\Registrations\FL Studio 12]
+"ILRegKey"="7fafebd6ce246938dfc009ac417c4269aa8e2ecb2125f94b36b82543edd3fd70611c62e75a18f74060ac59261c56d2307031f9b8b0d275f4fab50c35878595429db005da9fff0f295731342243a21fc7a4a48bd477b5c4d086a81185c514ebfcc858be3fa17918248bc9f5c6a36722148bd7bbac01dbc1f219dc218cddbf7b3e9a603ba9c4cf42e994f21dfdaf463cbf923c678418aa8fe4acf140797cc9e79c1921b5e3159af7096b485e30ad45ea101eac1f35848c593174932767c996e057e4b6bf34bdb0c6d90608ee75f1215bab"
